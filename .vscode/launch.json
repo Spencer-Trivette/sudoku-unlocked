@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // "externalConsole": true,
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug",
+            "program": "C:/Users/17049/sudoku-unlocked/sudoku_unlocked/target/debug/sudoku_unlocked.exe",
+            "args": [],
+            "cwd": "C:/Users/17049/sudoku-unlocked"
+        }
+    ]
+}
