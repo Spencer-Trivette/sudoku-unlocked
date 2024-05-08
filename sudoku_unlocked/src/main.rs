@@ -1,4 +1,6 @@
 fn main() {
-    println!("Something else then hello world!");
+    loop {
+        println!("HEY!");
+    }
 }
 // lmfao
